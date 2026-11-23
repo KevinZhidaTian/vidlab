@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/cli/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/bits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/h264/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/inspect-wasm/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mp4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/toycodec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/ts/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/yuv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

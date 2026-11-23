@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["cli","crates/bits", "crates/h264", "crates/inspect-wasm", "crates/mp4","crates/toycodec", "crates/ts","crates/yuv"]
